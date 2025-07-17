@@ -8,7 +8,7 @@ import WithPrivateRoute from "./utils/WithPrivateRoute";
 import ChatLayout from "./components/layouts/ChatLayout";
 import Header from "./components/layouts/Header";
 import ErrorMessage from "./components/layouts/ErrorMessage";
-
+import "./App.css";
 function App() {
   return (
     <AuthProvider>
